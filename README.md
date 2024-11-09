@@ -14,5 +14,4 @@ This project will incorporate:
 
 | Start Game Screen                                                                    | Game Screen                                                                    | Game Over Screen                                                                    |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <div align="center"><img src="/screenshots/start-game-screen.png" width="75%"></div> | <div align="center"><img src="/screenshots/game-screen.png" width="75%"></div> | <div align="center"><img src="/screenshots/game-over-screen.png" width="75%"></div> |
-| Start Game                                                                           | Game                                                                           | Game Over                                                                           |
+| <div align="center"><img src="/screenshots/start-game-screen.png" width="85%"></div> | <div align="center"><img src="/screenshots/game-screen.png" width="55%"></div> | <div align="center"><img src="/screenshots/game-over-screen.png" width="55%"></div> |
