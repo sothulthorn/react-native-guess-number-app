@@ -12,7 +12,7 @@ This project will incorporate:
 
 ## Project View
 
-| Start Game Screen                                                       | Game Screen                                                       | Game Over Screen                                                       |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| <img src="/screenshots/start-game-screen.png" width="30%" height="30%"> | <img src="/screenshots/game-screen.png" width="30%" height="30%"> | <img src="/screenshots/game-over-screen.png" width="30%" height="30%"> |
-| Start Game                                                              | Game                                                              | Game Over                                                              |
+| Start Game Screen                                                                    | Game Screen                                                                    | Game Over Screen                                                                    |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| <div align="center"><img src="/screenshots/start-game-screen.png" width="50%"></div> | <div align="center"><img src="/screenshots/game-screen.png" width="50%"></div> | <div align="center"><img src="/screenshots/game-over-screen.png" width="50%"></div> |
+| Start Game                                                                           | Game                                                                           | Game Over                                                                           |
